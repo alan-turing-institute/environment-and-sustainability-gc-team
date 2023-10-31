@@ -4,6 +4,7 @@ description:
 ---
 
 :::info
+**Live notes on hackmd: https://hackmd.io/@turing-es/ ==[...]==**
 **Contents**
 [TOC]
 :::
